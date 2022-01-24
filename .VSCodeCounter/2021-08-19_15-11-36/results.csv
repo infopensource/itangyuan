@@ -1,0 +1,40 @@
+"filename", "language", "Log", "Python", "Batch", "HTML", "comment", "blank", "total"
+"f:\魔法的咒文\python\itangyuan\1.py", "Python", 0, 11, 0, 0, 3, 21, 35
+"f:\魔法的咒文\python\itangyuan\UI.py", "Python", 0, 140, 0, 0, 4, 38, 182
+"f:\魔法的咒文\python\itangyuan\UIgzsc.py", "Python", 0, 134, 0, 0, 4, 36, 174
+"f:\魔法的咒文\python\itangyuan\UInggz.py", "Python", 0, 120, 0, 0, 4, 33, 157
+"f:\魔法的咒文\python\itangyuan\build\UI-sc-gz\xref-UI-sc-gz.html", "HTML", 0, 0, 0, 12955, 0, 2596, 15551
+"f:\魔法的咒文\python\itangyuan\build\UI\xref-UI.html", "HTML", 0, 0, 0, 12955, 0, 2596, 15551
+"f:\魔法的咒文\python\itangyuan\build\UI_favour_test\xref-UI_favour_test.html", "HTML", 0, 0, 0, 12395, 0, 2404, 14799
+"f:\魔法的咒文\python\itangyuan\build\UI_gz.py\xref-UI_gz.py.html", "HTML", 0, 0, 0, 12029, 0, 2408, 14437
+"f:\魔法的咒文\python\itangyuan\build\UI_gz_sc\xref-UI_gz_sc.html", "HTML", 0, 0, 0, 12029, 0, 2408, 14437
+"f:\魔法的咒文\python\itangyuan\build\UI_sc\xref-UI_sc.html", "HTML", 0, 0, 0, 12955, 0, 2596, 15551
+"f:\魔法的咒文\python\itangyuan\build\UIgzsc\xref-UIgzsc.html", "HTML", 0, 0, 0, 12955, 0, 2596, 15551
+"f:\魔法的咒文\python\itangyuan\build\UInggz\xref-UInggz.html", "HTML", 0, 0, 0, 12955, 0, 2596, 15551
+"f:\魔法的咒文\python\itangyuan\check.py", "Python", 0, 0, 0, 0, 0, 1, 1
+"f:\魔法的咒文\python\itangyuan\debug.log", "Log", 3, 0, 0, 0, 0, 1, 4
+"f:\魔法的咒文\python\itangyuan\geckodriver.log", "Log", 0, 0, 0, 0, 0, 1, 1
+"f:\魔法的咒文\python\itangyuan\ghostdriver.log", "Log", 7, 0, 0, 0, 0, 1, 8
+"f:\魔法的咒文\python\itangyuan\log_ui.py", "Python", 0, 56, 0, 0, 9, 17, 82
+"f:\魔法的咒文\python\itangyuan\login.py", "Python", 0, 82, 0, 0, 12, 13, 107
+"f:\魔法的咒文\python\itangyuan\make.bat", "Batch", 0, 0, 2, 0, 0, 1, 3
+"f:\魔法的咒文\python\itangyuan\msgDB.py", "Python", 0, 45, 0, 0, 3, 10, 58
+"f:\魔法的咒文\python\itangyuan\phoneNum.py", "Python", 0, 38, 0, 0, 3, 11, 52
+"f:\魔法的咒文\python\itangyuan\read.py", "Python", 0, 9, 0, 0, 0, 4, 13
+"f:\魔法的咒文\python\itangyuan\register.py", "Python", 0, 58, 0, 0, 18, 12, 88
+"f:\魔法的咒文\python\itangyuan\rubbish bin\OCR.py", "Python", 0, 7, 0, 0, 2, 4, 13
+"f:\魔法的咒文\python\itangyuan\rubbish bin\UI_favour_test.py", "Python", 0, 46, 0, 0, 8, 19, 73
+"f:\魔法的咒文\python\itangyuan\rubbish bin\UI_gz.py", "Python", 0, 124, 0, 0, 4, 32, 160
+"f:\魔法的咒文\python\itangyuan\rubbish bin\UI_gz_sc.py", "Python", 0, 114, 0, 0, 4, 34, 152
+"f:\魔法的咒文\python\itangyuan\rubbish bin\proc.py", "Python", 0, 21, 0, 0, 3, 8, 32
+"f:\魔法的咒文\python\itangyuan\rubbish bin\proc2.py", "Python", 0, 9, 0, 0, 1, 6, 16
+"f:\魔法的咒文\python\itangyuan\rubbish bin\模拟浏览器.py", "Python", 0, 6, 0, 0, 0, 2, 8
+"f:\魔法的咒文\python\itangyuan\rubbish bin\注册.py", "Python", 0, 33, 0, 0, 11, 12, 56
+"f:\魔法的咒文\python\itangyuan\test.py", "Python", 0, 18, 0, 0, 0, 5, 23
+"f:\魔法的咒文\python\itangyuan\ty_function.py", "Python", 0, 51, 0, 0, 5, 31, 87
+"f:\魔法的咒文\python\itangyuan\write.py", "Python", 0, 10, 0, 0, 0, 4, 14
+"f:\魔法的咒文\python\itangyuan\接口\main_func.py", "Python", 0, 68, 0, 0, 7, 17, 92
+"f:\魔法的咒文\python\itangyuan\接口\ty_function.py", "Python", 0, 51, 0, 0, 5, 31, 87
+"f:\魔法的咒文\python\itangyuan\获取像素位置.py", "Python", 0, 22, 0, 0, 1, 6, 29
+"f:\魔法的咒文\python\itangyuan\验证码.py", "Python", 0, 58, 0, 0, 6, 27, 91
+"Total", "-", 10, 1331, 2, 101228, 117, 20638, 123326
